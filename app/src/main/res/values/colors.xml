@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#069991</color>
+    <color name="secodePrimaryColor">#069100</color>
+    <color name="titleTextDefaultColor">#666666</color>
+    <color name="titleTextGrayColor">#999999</color>
+    <color name="titleTextSelectedColor">#333333</color>
+    <color name="dividerLineColor">#F4F4F4</color>
+    <color name="bottomDialog_item_background">#F8F8F8</color>
+    <color name="textDebugBackgroundColor">#FFAC44</color>
+</resources>
